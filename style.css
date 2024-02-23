@@ -1,0 +1,15 @@
+#title tr th{
+    padding-right: 10px;
+    border: 1px solid rgb(51, 0, 255);
+    width: 100px;
+    color: rgb(231, 14, 14);
+}
+
+#body tr td{
+    border: 1px solid rgb(51, 0, 255);
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(146, 203, 231);
+}
