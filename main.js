@@ -21,6 +21,7 @@
             contact: { email: "jane.smith@example.com", phone: "098-765-4321" },
             skills: ["Figma", "Sketch", "Adobe XD"]
         },
+        // Additional employee objects...
         {
             id: 3,
             name: "Michael Johnson",
@@ -48,7 +49,7 @@
             contact: { email: "david.brown@example.com", phone: "321-654-9870" },
             skills: ["Financial Modeling", "Data Analysis", "Excel"]
         }
-        // Additional employee objects...
+        
     ];
 
     employees.forEach(obj => {
