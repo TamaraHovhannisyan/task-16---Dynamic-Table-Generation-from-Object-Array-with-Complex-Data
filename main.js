@@ -20,35 +20,9 @@
             role: { title: "UI/UX Designer", level: "Senior" },
             contact: { email: "jane.smith@example.com", phone: "098-765-4321" },
             skills: ["Figma", "Sketch", "Adobe XD"]
-        },
-        // Additional employee objects...
-        {
-            id: 3,
-            name: "Michael Johnson",
-            age: 35,
-            department: "Marketing",
-            role: { title: "Marketing Manager", level: "Senior" },
-            contact: { email: "michael.johnson@example.com", phone: "987-654-3210" },
-            skills: ["Marketing Strategy", "SEO", "Social Media"]
-        },
-        {
-            id: 4,
-            name: "Emily Williams",
-            age: 32,
-            department: "Human Resources",
-            role: { title: "HR Specialist", level: "Mid" },
-            contact: { email: "emily.williams@example.com", phone: "456-789-0123" },
-            skills: ["Recruitment", "Employee Relations", "Training & Development"]
-        },
-        {
-            id: 5,
-            name: "David Brown",
-            age: 33,
-            department: "Finance",
-            role: { title: "Financial Analyst", level: "Junior" },
-            contact: { email: "david.brown@example.com", phone: "321-654-9870" },
-            skills: ["Financial Modeling", "Data Analysis", "Excel"]
         }
+        // Additional employee objects...
+        
         
     ];
 
